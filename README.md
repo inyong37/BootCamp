@@ -67,7 +67,7 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Mask hanger 마스크 줄
   - [ ] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779)
   - [ ] Ear Plug 귀마개
-  - [ ] [Feet Band 꿈치밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748)
+  - [ ] [Heel Band 발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748)
   
 
 *This Repository is submodule of Study*
