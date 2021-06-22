@@ -2,6 +2,8 @@
 Preparation and review for going to the KATC (Korean Army Training Center, 육군훈련소)
 
 ## Preparation Materials
+파랑 글씨는 구매 링크가 연결되어 있어서, 클릭하면 구매 페이지로 넘어감. (광고 아님)
+
 - [ ] Textbooks
   - [ ] Operating System
     - [Advanced Programming in the UNIX Environment](https://read.amazon.com/kp/embed?asin=B00DB3G8KY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_36BE4JGSZS3WMR32355V)
@@ -36,7 +38,7 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Colored Pen * 1
   - [ ] Highlighter * 1
   - [ ] Pencil Case * 1
-  - [ ] Light Pen * 1
+  - [ ] [Light Pen * 1](https://smartstore.naver.com/early-trend-shop/products/5090123821)
 
 - [ ] Cleansing Products
   - [ ] Toothbrush 칫솔
@@ -54,12 +56,13 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Lip balm 립밤
 
 - [ ] Equipment
-  - [ ] Insole 깔창
-  - [ ] Elbow Pad 팔꿈치 패드
+  - [ ] [Insole 깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328)
+  - [ ] [Elbow Pad 팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601)
   - [ ] Knee Pad 무릎 패드
   - [ ] Mask hanger 마스크 줄
-  - [ ] Mask Ear Pad 마스크 귀패드
+  - [ ] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779)
   - [ ] Ear Plug 귀마개
+  - [ ] [Feet Band 꿈치밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748)
   
 
 *This Repository is submodule of Study*
