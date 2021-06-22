@@ -54,9 +54,13 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Sun Cream 선크림
   - [ ] Sun Stick 선스틱
   - [ ] Lip balm 립밤
+  - [ ] Cotton Swab 면봉
+  - [ ] Wet Tissue 물티슈
+  - [ ] Powder Tissue 파우더 티슈
 
 - [ ] Equipment
-  - [ ] Glasses 안경
+  - [x] Glasses 안경
+  - [ ] Watch 시계
   - [ ] [Insole 깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328)
   - [ ] [Elbow Pad 팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601)
   - [ ] [Knee Pad 무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521)
