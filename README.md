@@ -39,8 +39,27 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Light Pen * 1
 
 - [ ] Cleansing Products
+  - [ ] Toothbrush 칫솔
+  - [ ] Toothpaste 치약
+  - [ ] Toothbrush Quiver 칫솔통
+  - [ ] Shampoo 샴푸
+  - [ ] Body Cleaning Soap 바디클렌저
+  - [ ] Body Cleaning Brush 샤워볼
+  - [ ] Cleaning Bag 세면백
+  - [ ] Shaving Cream 쉐이빙크림
+  - [ ] Lotion 로션
+  - [ ] Hand Cream 핸드크림
+  - [ ] Sun Cream 선크림
+  - [ ] Sun Stick 선스틱
+  - [ ] Lip balm 립밤
 
-
+- [ ] Equipment
+  - [ ] Insole 깔창
+  - [ ] Elbow Pad 팔꿈치 패드
+  - [ ] Knee Pad 무릎 패드
+  - [ ] Mask hanger 마스크 줄
+  - [ ] Make Ear Pad 마스크 귀패드
+  - [ ] Ear Plug 귀마개
   
 
 *This Repository is submodule of Study*
