@@ -38,7 +38,7 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Colored Pen * 1
   - [ ] Highlighter * 1
   - [ ] Pencil Case * 1
-  - [ ] [Light Pen * 1](https://smartstore.naver.com/early-trend-shop/products/5090123821)
+  - [ ] [Light Pen](https://smartstore.naver.com/early-trend-shop/products/5090123821) * 1
 
 - [ ] Cleansing Products
   - [ ] Toothbrush 칫솔
