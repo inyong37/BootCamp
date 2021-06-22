@@ -4,9 +4,11 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
 ## Preparation Materials
 - [ ] Textbooks
   - Operating System
-    - [ ] [Advanced Programming in the UNIX Environment](https://read.amazon.com/kp/embed?asin=B00DB3G8KY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_36BE4JGSZS3WMR32355V)
-    - [ ] [Operating System Concepts](https://www.amazon.com/dp/1119456339/?coliid=I2SC46EAXP0FJL&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im)
-    - [ ] [Operating System Concepts Essential](https://www.amazon.com/dp/B00RKQZ47Q/?coliid=I1N4YO5JUJO1HD&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im)
+    - [ ] ~~[Advanced Programming in the UNIX Environment](https://read.amazon.com/kp/embed?asin=B00DB3G8KY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_36BE4JGSZS3WMR32355V)~~
+    - [ ] ~~[Operating System Concepts](https://www.amazon.com/dp/1119456339/?coliid=I2SC46EAXP0FJL&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im)~~
+    - [ ] ~~[Operating System Concepts Essential](https://www.amazon.com/dp/B00RKQZ47Q/?coliid=I1N4YO5JUJO1HD&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im)~~
+    - [ ] ~~[UNIX 고급 프로그래밍](http://www.yes24.com/Product/Goods/14528020)~~
+    - [ ] ~~[Operating System Concepts 에션셜](http://www.yes24.com/Product/Goods/71048173)~~
     - [ ] [유닉스의 탄생](http://www.yes24.com/Product/Goods/91213198)
   - Language; Python
     - [ ] [전문가를 위한 파이썬](http://www.yes24.com/Product/Goods/30231768)
