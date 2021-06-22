@@ -56,9 +56,10 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Lip balm 립밤
 
 - [ ] Equipment
+  - [ ] Glasses 안경
   - [ ] [Insole 깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328)
   - [ ] [Elbow Pad 팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601)
-  - [ ] Knee Pad 무릎 패드
+  - [ ] [Knee Pad 무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521)
   - [ ] Mask hanger 마스크 줄
   - [ ] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779)
   - [ ] Ear Plug 귀마개
