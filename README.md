@@ -58,7 +58,7 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Elbow Pad 팔꿈치 패드
   - [ ] Knee Pad 무릎 패드
   - [ ] Mask hanger 마스크 줄
-  - [ ] Make Ear Pad 마스크 귀패드
+  - [ ] Mask Ear Pad 마스크 귀패드
   - [ ] Ear Plug 귀마개
   
 
