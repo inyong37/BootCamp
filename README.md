@@ -68,7 +68,19 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779)
   - [ ] Ear Plug 귀마개
   - [ ] [Heel Band 발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748)
-  
+
+- [ ] Bot
+  - [ ] Checking Messages Every day, and Every Computer
+    - [x] Scheduler
+    - [x] Content
+    - [x] Test MyNotebook
+    - [ ] Test InyongLaptop
+  - [ ] Committing Every day
+    - [ ] Scheduler
+    - [x] Content
+  - [ ] Sending Internet Post
+    - [ ] Scheduler
+    - [ ] Content
 
 *This Repository is submodule of Study*
 
