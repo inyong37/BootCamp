@@ -6,8 +6,9 @@ from os import system
 import time
 
 
-def job():
+def job(real=True):
     print('{:-^60}'.format(' Git Contribution: make md file, git add, git commit, git push '))
+    print(' - Real - ') if real else print(' - Test - ')
     prefix: str = str(time.strftime('%Y-%m-%d-%a', time.localtime(time.time())))
     d_day, last_day = 8, 29
     month, today = int(prefix[5:7]), int(prefix[8:10])
@@ -43,10 +44,10 @@ def job():
     # command_legacy: str = 'echo ' + content + ' > ' + file_path
     # If there is a newline character, the file is not created.
     command: str = 'echo ' + head + ' > ' + file_path
-    system(command) #; print(command)
+    system(command) if real else print(command)
     command: str = 'git add ' + file_path
-    system(command) #; print(command)
+    system(command) if real else print(command)
     command: str = 'git commit -m "create ' + file_name + '"'
-    system(command) #; print(command)
+    system(command) if real else print(command)
     command: str = 'git push origin master'
-    system(command) #; print(command)
+    system(command) if real else print(command)
