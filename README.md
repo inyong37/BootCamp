@@ -69,14 +69,20 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Ear Plug 귀마개
   - [ ] [Heel Band 발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748)
 
+- [ ] Paper
+  - [ ] ID Card 신분증
+  - [ ] Deit Card 나라사랑카드
+  - [ ] Draft Notice 입영통지서
+
 - [ ] Bot
-  - [ ] Checking Messages Every day, and Every Computer
+  - [ ] Checking Messages Every day
     - [x] Scheduler
     - [x] Content
-    - [x] Test MyNotebook
-    - [ ] Test InyongLaptop
-  - [ ] Committing Every day
-    - [ ] Scheduler
+    - [ ] Multiple Computer
+      - [x] Test MyNotebook
+      - [ ] Test InyongLaptop
+  - [x] Committing Every day :heavy_check_mark:
+    - [x] Scheduler
     - [x] Content
   - [ ] Sending Internet Post
     - [ ] Scheduler
