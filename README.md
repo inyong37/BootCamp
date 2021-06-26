@@ -12,8 +12,8 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
     - [UNIX 고급 프로그래밍](http://www.yes24.com/Product/Goods/14528020)
     - [Operating System Concepts 에션셜](http://www.yes24.com/Product/Goods/71048173)
     - [유닉스의 탄생](http://www.yes24.com/Product/Goods/91213198)
-  - [ ] Langauge; C++
-  - [ ] Language; Python
+  - [ ] Langauge: C++
+  - [ ] Language: Python
     - [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?dchild=1&keywords=fluent+python&qid=1624331346&sr=8-1)
     - [전문가를 위한 파이썬](http://www.yes24.com/Product/Goods/30231768)
   - [x] Algorithm
