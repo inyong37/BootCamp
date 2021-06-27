@@ -64,13 +64,14 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
 - [ ] Equipment
   - [x] Glasses 안경
   - [ ] Watch 시계
-  - [ ] [Insole 깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328)
-  - [ ] [Elbow Pad 팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601)
-  - [ ] [Knee Pad 무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521)
+  - [ ] [Insole 깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328) - 네이버쇼핑(6/27)
+  - [ ] [Elbow Pad 팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601) - 네이버쇼핑(6/27)
+  - [ ] [Knee Pad 무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521) - 네이버쇼핑(6/27)
   - [x] Mask hanger 마스크 줄 - 다이소(6/27)
   - [x] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779) - 다이소(6/27)
   - [x] Ear Plug 귀마개 - 다이소 (6/27)
-  - [ ] [Heel Band 발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748)
+  - [ ] [Heel Band 발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748) - 네이버쇼핑(6/27)
+  - [ ] [Warpaint 위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503) - 네이버쇼핑(6/27)
 
 - [ ] Paper
   - [ ] ID Card 신분증
