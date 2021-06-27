@@ -24,10 +24,8 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
     - [Hands-ON Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/dp/1491962291/?coliid=I2H26RK8BNC46F&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it) / [핸즈온 머신러닝](http://www.yes24.com/Product/Goods/59878826)
   - [x] CV
     - [Pattern Recognition and Machine Learning](https://www.amazon.com/dp/0387310738/?coliid=I1O5WPSXJKY3FS&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) /  [패턴 인식과 머신 러닝](http://www.yes24.com/Product/Goods/64189352)
-    - [Deep Learning for Computer Vision](https://www.amazon.com/dp/1788295625/?coliid=I2TRK7Y8CUTI1I&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it)
-    - [Computer Vision with TensorFlow 2](https://www.amazon.com/gp/product/1788830644)
-    - [컴퓨터 비전과 딥러닝](http://www.yes24.com/Product/Goods/63830791)
-    - [실전! 텐서플로 2를 활용한 딥러닝 컴퓨터 비전](http://www.yes24.com/Product/Goods/90365150) :heavy_check_mark:
+    - [Deep Learning for Computer Vision](https://www.amazon.com/dp/1788295625/?coliid=I2TRK7Y8CUTI1I&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) / [컴퓨터 비전과 딥러닝](http://www.yes24.com/Product/Goods/63830791)
+    - [Computer Vision with TensorFlow 2](https://www.amazon.com/gp/product/1788830644) / [실전! 텐서플로 2를 활용한 딥러닝 컴퓨터 비전](http://www.yes24.com/Product/Goods/90365150) :heavy_check_mark:
 
 - [ ] Writing Implement
   - [x] Notebook * 2 - 다이소
@@ -61,13 +59,14 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
 
 - [ ] Equipment
   - [x] Glasses 안경
-  - [ ] Watch 시계
+  - [x] Mask hanger 마스크 줄 - 다이소(6/27)
+  - [x] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779) - 다이소(6/27)
+  - [x] Ear Plug 귀마개 - 다이소(6/27)
+  - [x] [Lock 자물쇠] * 2 - 다이소(6/27) 
+  - [ ] Watch 시계 - 네이버쇼핑(6/27)
   - [ ] [Insole 깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328) - 네이버쇼핑(6/27)
   - [ ] [Elbow Pad 팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601) - 네이버쇼핑(6/27)
   - [ ] [Knee Pad 무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521) - 네이버쇼핑(6/27)
-  - [x] Mask hanger 마스크 줄 - 다이소(6/27)
-  - [x] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779) - 다이소(6/27)
-  - [x] Ear Plug 귀마개 - 다이소 (6/27)
   - [ ] [Heel Band 발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748) - 네이버쇼핑(6/27)
   - [ ] [Warpaint 위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503) - 네이버쇼핑(6/27)
 
