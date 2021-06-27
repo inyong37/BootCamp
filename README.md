@@ -11,7 +11,7 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
     - [Operating System Concepts Essential](https://www.amazon.com/dp/B00RKQZ47Q/?coliid=I1N4YO5JUJO1HD&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im) / [Operating System Concepts 에션셜](http://www.yes24.com/Product/Goods/71048173)
     - [유닉스의 탄생](http://www.yes24.com/Product/Goods/91213198)
   - [ ] Langauge
-    - [C Programming Language](https://www.amazon.com/dp/0131103709/?coliid=IQW77IBWGBFRI&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im)
+    - [C Programming Language](https://www.amazon.com/dp/0131103709/?coliid=IQW77IBWGBFRI&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im) / [C 언어 프로그래밍](http://www.yes24.com/Product/Goods/63416)
     - [C++ Programming Language](https://www.amazon.com/dp/0321958322/?coliid=IQTLHMIYMJIOR&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im) / [The C++ Programming Language 한국어판](http://www.yes24.com/Product/Goods/23441719)
     - [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?dchild=1&keywords=fluent+python&qid=1624331346&sr=8-1) /  [전문가를 위한 파이썬](http://www.yes24.com/Product/Goods/30231768)
   - [x] Algorithm
