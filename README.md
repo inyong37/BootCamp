@@ -13,7 +13,6 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - Langauge
     - [C Programming Language](https://www.amazon.com/dp/0131103709/?coliid=IQW77IBWGBFRI&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im)
     - [C++ Programming Language](https://www.amazon.com/dp/0321958322/?coliid=IQTLHMIYMJIOR&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im) / [The C++ Programming Language 한국어판](http://www.yes24.com/Product/Goods/23441719)
-  - Language: Python
     - [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?dchild=1&keywords=fluent+python&qid=1624331346&sr=8-1) /  [전문가를 위한 파이썬](http://www.yes24.com/Product/Goods/30231768)
   - [x] Algorithm
     - [Introduction to Algorithms](https://www.amazon.com/dp/0262033844/?coliid=I346KV8UUYJ660&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) / [Introduction to Algorithms](http://www.yes24.com/Product/Goods/13776831)
