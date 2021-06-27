@@ -16,7 +16,7 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
     - [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?dchild=1&keywords=fluent+python&qid=1624331346&sr=8-1) /  [전문가를 위한 파이썬](http://www.yes24.com/Product/Goods/30231768)
   - [x] Algorithm
     - [Introduction to Algorithms](https://www.amazon.com/dp/0262033844/?coliid=I346KV8UUYJ660&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) / [Introduction to Algorithms](http://www.yes24.com/Product/Goods/13776831)
-    - [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/?coliid=IATX78AOHNRK7&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it)
+    - [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/?coliid=IATX78AOHNRK7&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) / [코딩인터뷰 완전분석](http://www.yes24.com/Product/Goods/44305533)
     - [알고리즘 문제 해결 전략 세트](http://www.yes24.com/Product/Goods/8006522)
     - [파이썬 알고리즘 인터뷰](http://www.yes24.com/Product/Goods/91084402) :heavy_check_mark:
   - [ ] DL & ML
