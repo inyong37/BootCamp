@@ -51,21 +51,21 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [x] Cleaning Bag 세면백 - 다이소(6/27)
   - [x] Shaving Cream 쉐이빙크림 - 쿠팡
   - [x] Lotion 로션 - 네이버쇼핑
-  - [ ] Hand Cream 핸드크림
   - [x] Sun Cream 선크림 - 올리브영(6/27)
-  - [ ] Sun Stick 선스틱
   - [x] Lip balm 립밤 - 롭스(6/27)
   - [x] Cotton Swab 면봉 - 다이소(6/27)
   - [x] Wet Tissue 물티슈 - 쿠팡
   - [x] Powder Tissue 파우더 시트 - 롭스(6/27)
+  - [ ] Sun Stick 선스틱
+  - [ ] Hand Cream 핸드크림
 
 - [ ] Equipment
-  - [x] Glasses 안경
+  - [x] Glasses 안경 - 으뜸50안경
   - [x] Mask hanger 마스크 줄 - 다이소(6/27)
   - [x] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779) - 다이소(6/27)
   - [x] Ear Plug 귀마개 - 다이소(6/27)
   - [x] [Lock 자물쇠] * 2 - 다이소(6/27) 
-  - [ ] Watch 시계 - 네이버쇼핑(6/27)
+  - [ ] [Watch 시계](https://smartstore.naver.com/early-trend-shop/products/5221359949) - 네이버쇼핑(6/27)
   - [ ] [Insole 깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328) - 네이버쇼핑(6/27)
   - [ ] [Elbow Pad 팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601) - 네이버쇼핑(6/27)
   - [ ] [Knee Pad 무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521) - 네이버쇼핑(6/27)
@@ -81,10 +81,10 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Checking Messages Every day
     - [x] Scheduler
     - [x] Content
-    - [ ] Multiple Computer
+    - [x] Multiple Computer
       - [x] Test MyNotebook
-      - [ ] Test InyongLaptop
-  - [x] Committing Every day :heavy_check_mark:
+      - [x] Test InyongLaptop
+  - [ ] Committing Every day :heavy_check_mark:
     - [x] Scheduler
     - [x] Content
   - [ ] Sending Internet Post
