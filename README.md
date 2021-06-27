@@ -32,32 +32,34 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
     - [실전! 텐서플로 2를 활용한 딥러닝 컴퓨터 비전](http://www.yes24.com/Product/Goods/90365150) :heavy_check_mark:
 
 - [ ] Writing Implement
-  - [x] Notebook * 2
-  - [ ] Mechanical Pencil * 1
-  - [ ] Eraser * 1
-  - [ ] Ballpoint Pen * 1
-  - [ ] Colored Pen * 1
-  - [ ] Highlighter * 1
-  - [ ] Pencil Case * 1
-  - [ ] [Light Pen](https://smartstore.naver.com/early-trend-shop/products/5090123821) * 1
+  - [x] Notebook * 2 - 다이소
+  - [x] Note (for diary and note) * 2 - 다이소(6/27)
+  - [x] Mechanical Pencil .3 * 1 - 문방구(6/27)
+  - [x] Mechanical Pencil Lead .3 * 1 - 문방구(6/27)
+  - [x] Eraser * 1 - 문방구(6/27)
+  - [x] Ballpoint Pen Black * 1 - 문방구(6/27)
+  - [x] 3 Colored Pen * 1 - 집
+  - [x] Highlighter (Green) * 1 - 문방구(6/27)
+  - [x] Pencil Case * 1 - 문방구(6/27)
+  - [x] [Light Pen](https://smartstore.naver.com/early-trend-shop/products/5090123821) * 1 - 문방구(6/27)
 
 - [ ] Cleansing Products
-  - [ ] Toothbrush 칫솔
-  - [ ] Toothpaste 치약
-  - [ ] Toothbrush Quiver 칫솔통
-  - [ ] Shampoo 샴푸
-  - [ ] Body Cleaning Soap 바디클렌저
-  - [ ] Body Cleaning Brush 샤워볼
-  - [ ] Cleaning Bag 세면백
-  - [x] Shaving Cream 쉐이빙크림
-  - [x] Lotion 로션
+  - [x] Toothbrush 칫솔 - 집
+  - [x] Toothpaste 치약 - 집
+  - [x] Toothbrush Quiver 칫솔통 - 집
+  - [x] Shampoo 샴푸 - 집
+  - [x] Body Cleaning Soap 바디클렌저 - 집
+  - [x] Body Cleaning Brush 샤워볼 - 다이소(6/27)
+  - [x] Cleaning Bag 세면백 - 다이소(6/27)
+  - [x] Shaving Cream 쉐이빙크림 - 쿠팡
+  - [x] Lotion 로션 - 네이버쇼핑
   - [ ] Hand Cream 핸드크림
-  - [ ] Sun Cream 선크림
+  - [x] Sun Cream 선크림 - 올리브영(6/27)
   - [ ] Sun Stick 선스틱
-  - [ ] Lip balm 립밤
-  - [ ] Cotton Swab 면봉
-  - [ ] Wet Tissue 물티슈
-  - [ ] Powder Tissue 파우더 티슈
+  - [x] Lip balm 립밤 - 롭스(6/27)
+  - [x] Cotton Swab 면봉 - 다이소(6/27)
+  - [x] Wet Tissue 물티슈 - 쿠팡
+  - [x] Powder Tissue 파우더 시트 - 롭스(6/27)
 
 - [ ] Equipment
   - [x] Glasses 안경
@@ -65,9 +67,9 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] [Insole 깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328)
   - [ ] [Elbow Pad 팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601)
   - [ ] [Knee Pad 무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521)
-  - [ ] Mask hanger 마스크 줄
-  - [ ] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779)
-  - [ ] Ear Plug 귀마개
+  - [x] Mask hanger 마스크 줄 - 다이소(6/27)
+  - [x] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779) - 다이소(6/27)
+  - [x] Ear Plug 귀마개 - 다이소 (6/27)
   - [ ] [Heel Band 발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748)
 
 - [ ] Paper
