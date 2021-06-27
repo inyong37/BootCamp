@@ -63,8 +63,8 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [x] Glasses 안경 - 으뜸50안경
   - [x] Mask hanger 마스크 줄 - 다이소(6/27)
   - [x] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779) - 다이소(6/27)
-  - [x] Ear Plug 귀마개 - 다이소(6/27)
-  - [x] [Lock 자물쇠] * 2 - 다이소(6/27) 
+  - [x] Ear Plug 귀마개 * 2 - 다이소(6/27)
+  - [x] Lock 자물쇠 * 2 - 다이소(6/27) 
   - [ ] [Watch 시계](https://smartstore.naver.com/early-trend-shop/products/5221359949) - 네이버쇼핑(6/27)
   - [ ] [Insole 깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328) - 네이버쇼핑(6/27)
   - [ ] [Elbow Pad 팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601) - 네이버쇼핑(6/27)
