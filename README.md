@@ -15,11 +15,14 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
     - [C++ Programming Language](https://www.amazon.com/dp/0321958322/?coliid=IQTLHMIYMJIOR&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im) / [The C++ Programming Language 한국어판](http://www.yes24.com/Product/Goods/23441719)
     - [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?dchild=1&keywords=fluent+python&qid=1624331346&sr=8-1) /  [전문가를 위한 파이썬](http://www.yes24.com/Product/Goods/30231768)
   - [x] Algorithm
+    - [Deep Learning](https://www.amazon.com/gp/product/0262035618/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 
     - [Introduction to Algorithms](https://www.amazon.com/dp/0262033844/?coliid=I346KV8UUYJ660&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) / [Introduction to Algorithms](http://www.yes24.com/Product/Goods/13776831)
     - [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/?coliid=IATX78AOHNRK7&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) / [코딩인터뷰 완전분석](http://www.yes24.com/Product/Goods/44305533)
     - [알고리즘 문제 해결 전략 세트](http://www.yes24.com/Product/Goods/8006522)
     - [파이썬 알고리즘 인터뷰](http://www.yes24.com/Product/Goods/91084402) :heavy_check_mark:
   - [ ] DL & ML
+    - [Deep Learning with Python](https://www.amazon.com/gp/product/1617294438/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+    - [ゼロから作る Deep Learning](https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep-Learning-%E2%80%95Python%E3%81%A7%E5%AD%A6%E3%81%B6%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%A3%85-%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873117585) / [밑바닥부터 시작하는 딥러닝](http://www.yes24.com/Product/Goods/34970929) 
     - [Hands-ON Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/dp/1491962291/?coliid=I2H26RK8BNC46F&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it) / [핸즈온 머신러닝](http://www.yes24.com/Product/Goods/59878826)
   - [x] CV
     - [Pattern Recognition and Machine Learning](https://www.amazon.com/dp/0387310738/?coliid=I1O5WPSXJKY3FS&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) /  [패턴 인식과 머신 러닝](http://www.yes24.com/Product/Goods/64189352)
