@@ -9,6 +9,7 @@ import time
 def job(real=True):
     print('{:-^60}'.format(' Git Contribution: make md file, git add, git commit, git push '))
     print(' - Real - ') if real else print(' - Test - ')
+    system('git checkout master && git fetch origin master && git rebase origin/master')
     prefix: str = str(time.strftime('%Y-%m-%d-%a', time.localtime(time.time())))
     d_day, last_day = 8, 29
     month, today = int(prefix[5:7]), int(prefix[8:10])
