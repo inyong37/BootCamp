@@ -84,7 +84,7 @@ Preparation and review for going to the KATC (Korean Army Training Center, ìœ¡êµ
     - [x] Multiple Computer
       - [x] Test MyNotebook
       - [x] Test InyongLaptop
-  - [ ] Committing Every day :heavy_check_mark:
+  - [ ] Committing Every day
     - [x] Scheduler
     - [x] Content
   - [ ] Sending Internet Post
