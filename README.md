@@ -101,6 +101,6 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
     - [x] Content
   - ~~Sending Internet Post~~; 본인인증
 
-<p align='center'>*This Repository is submodule of Study*</p>
+<p align='center'><em>This Repository is submodule of Study</em></p>
 
 <p align='center'><img src='https://user-images.githubusercontent.com/20737479/122714371-2a3b5b00-d2a2-11eb-82b0-f1a524378a68.gif'></p>
