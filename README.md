@@ -100,8 +100,6 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
     - [x] Scheduler
     - [x] Content
   - ~~Sending Internet Post~~; 본인인증
-    - Scheduler
-    - Content
 
 *This Repository is submodule of Study*
 
