@@ -14,7 +14,7 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
     - [The C Programming Language](https://www.amazon.com/dp/0131103709/?coliid=IQW77IBWGBFRI&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im) / [C 언어 프로그래밍](http://www.yes24.com/Product/Goods/63416)
     - [The C++ Programming Language](https://www.amazon.com/dp/0321958322/?coliid=IQTLHMIYMJIOR&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im) / [The C++ Programming Language 한국어판](http://www.yes24.com/Product/Goods/23441719)
     - [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?dchild=1&keywords=fluent+python&qid=1624331346&sr=8-1) /  [전문가를 위한 파이썬](http://www.yes24.com/Product/Goods/30231768)
-    - [ゼロから作る Deep Learning](https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep-Learning-%E2%80%95Python%E3%81%A7%E5%AD%A6%E3%81%B6%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%A3%85-%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873117585) / [밑바닥부터 시작하는 딥러닝](http://www.yes24.com/Product/Goods/34970929) :heavy_check_mark:
+    - [ゼロから作る Deep Learning](https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep-Learning-%E2%80%95Python%E3%81%A7%E5%AD%A6%E3%81%B6%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%A3%85-%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873117585) / [밑바닥부터 시작하는 딥러닝](http://www.yes24.com/Product/Goods/34970929) :heavy_check_mark: 
   - [x] Algorithm
     - [Introduction to Algorithms](https://www.amazon.com/dp/0262033844/?coliid=I346KV8UUYJ660&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) / [Introduction to Algorithms](http://www.yes24.com/Product/Goods/13776831)
     - [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/?coliid=IATX78AOHNRK7&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) / [코딩인터뷰 완전분석](http://www.yes24.com/Product/Goods/44305533)
@@ -24,23 +24,22 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
     - [Pattern Recognition and Machine Learning](https://www.amazon.com/dp/0387310738/?coliid=I1O5WPSXJKY3FS&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) /  [패턴 인식과 머신 러닝](http://www.yes24.com/Product/Goods/64189352) :heavy_check_mark:
     - [Deep Learning](https://www.amazon.com/gp/product/0262035618/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 
     - [Deep Learning with Python](https://www.amazon.com/gp/product/1617294438/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-    - [ゼロから作る Deep Learning](https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep-Learning-%E2%80%95Python%E3%81%A7%E5%AD%A6%E3%81%B6%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%A3%85-%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873117585) / [밑바닥부터 시작하는 딥러닝](http://www.yes24.com/Product/Goods/34970929) 
     - [Hands-ON Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/dp/1491962291/?coliid=I2H26RK8BNC46F&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it) / [핸즈온 머신러닝](http://www.yes24.com/Product/Goods/59878826)
   - [x] CV
     - [Deep Learning for Computer Vision](https://www.amazon.com/dp/1788295625/?coliid=I2TRK7Y8CUTI1I&colid=3DGQ02RJ0O8QW&psc=1&ref_=lv_ov_lig_dp_it) / [컴퓨터 비전과 딥러닝](http://www.yes24.com/Product/Goods/63830791)
     - [Computer Vision with TensorFlow 2](https://www.amazon.com/gp/product/1788830644) / [실전! 텐서플로 2를 활용한 딥러닝 컴퓨터 비전](http://www.yes24.com/Product/Goods/90365150) :heavy_check_mark:
 
-- [ ] Writing Implement
-  - [x] Notebook * 2 - 다이소
-  - [x] Note (for diary and note) * 2 - 다이소(6/27)
-  - [x] Mechanical Pencil .3 * 1 - 문방구(6/27)
-  - [x] Mechanical Pencil Lead .3 * 1 - 문방구(6/27)
-  - [x] Eraser * 1 - 문방구(6/27)
-  - [x] Ballpoint Pen Black * 1 - 문방구(6/27)
-  - [x] 3 Colored Pen * 1 - 집
-  - [x] Highlighter (Green) * 1 - 문방구(6/27)
-  - [x] Pencil Case * 1 - 문방구(6/27)
-  - [x] [Light Pen](https://smartstore.naver.com/early-trend-shop/products/5090123821) * 1 - 문방구(6/27)
+- [x] 필기구
+  - [x] 공책 * 2 - 다이소
+  - [x] 수첩 * 2 - 다이소(6/27)
+  - [x] 샤프 (0.3) * 1 - 문방구(6/27)
+  - [x] 샤프심 (0.3 B) * 1 - 문방구(6/27)
+  - [x] 지우개 * 1 - 문방구(6/27)
+  - [x] 볼펜 * 1 - 문방구(6/27)
+  - [x] 삼색펜 * 1 - 집
+  - [x] 형광펜 * 1 - 문방구(6/27)
+  - [x] 필통 * 1 - 문방구(6/27)
+  - [x] [라이트펜](https://smartstore.naver.com/early-trend-shop/products/5090123821) * 1 - 문방구(6/27)
 
 - [ ] Cleansing Products
   - [x] Toothbrush 칫솔 - 집
@@ -72,6 +71,18 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] [Knee Pad 무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521) - 네이버쇼핑(6/27)
   - [ ] [Heel Band 발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748) - 네이버쇼핑(6/27)
   - [ ] [Warpaint 위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503) - 네이버쇼핑(6/27)
+  - [ ] 견출지
+
+- [ ] 의료용품
+  - [ ] 연고
+  - [ ] 밴드
+  - [ ] 방수 밴드
+  - [ ] 파스
+  - [ ] 동전 파스
+  - [ ] 약 - 타이레놀
+  - [ ] 약 - 정로환
+  - [ ] 약 용기
+  - [ ] 용각산
 
 - [ ] Paper
   - [ ] ID Card 신분증
