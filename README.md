@@ -87,7 +87,7 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
 - [ ] 서류
   - [ ] 신분증
   - [ ] 나라사랑카드
-  - [ ] 입영통지서
+  - [ ] [소집통지서/입영통지서](https://mwpt.mma.go.kr/)
 
 - [ ] Bot
   - [ ] Checking Messages Every day
