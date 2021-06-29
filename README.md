@@ -84,10 +84,10 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] 약 용기
   - [ ] 용각산
 
-- [ ] Paper
-  - [ ] ID Card 신분증
-  - [ ] Deit Card 나라사랑카드
-  - [ ] Draft Notice 입영통지서
+- [ ] 서류
+  - [ ] 신분증
+  - [ ] 나라사랑카드
+  - [ ] 입영통지서
 
 - [ ] Bot
   - [ ] Checking Messages Every day
