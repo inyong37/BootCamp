@@ -85,9 +85,9 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] 용각산
 
 - [ ] 서류
-  - [ ] 신분증
-  - [ ] 나라사랑카드
-  - [ ] [소집통지서/입영통지서](https://mwpt.mma.go.kr/)
+  - [x] 신분증 - [주민등록증 재발급 신청](https://www.gov.kr/mw/AA020InfoCappView.do?HighCtgCD=A01010&CappBizCD=13100000018&tp_seq=01)
+  - [x] 나라사랑카드 - 고객센터 재발급 신청 KB국민은행: 1588-1688 / IBK기업은행 1588-2588
+  - [x] 소집통지서/입영통지서 - [병무민원](https://mwpt.mma.go.kr/)
 
 - [ ] Bot
   - [ ] Checking Messages Every day
