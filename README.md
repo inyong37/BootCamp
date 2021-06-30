@@ -79,10 +79,13 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] 방수 밴드
   - [ ] 파스
   - [ ] 동전 파스
-  - [ ] 약 - 타이레놀
-  - [ ] 약 - 정로환
+  - [ ] 약
+    - [ ] 타이레놀
+    - [ ] 정로환
+    - [ ] 벌레 물렸을 때 바르는 약
   - [ ] 약 용기
   - [ ] 용각산
+  - [ ] 벌레기피제
 
 - [ ] 서류
   - [x] 신분증 - [주민등록증 재발급 신청](https://www.gov.kr/mw/AA020InfoCappView.do?HighCtgCD=A01010&CappBizCD=13100000018&tp_seq=01)
