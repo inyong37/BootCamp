@@ -60,17 +60,17 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] Hand Cream 핸드크림
 
 - [ ] Equipment
-  - [x] Glasses 안경 - 으뜸50안경
-  - [x] Mask hanger 마스크 줄 - 다이소(6/27)
-  - [x] [Mask Ear Pad 마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779) - 다이소(6/27)
-  - [x] Ear Plug 귀마개 * 2 - 다이소(6/27)
-  - [x] Lock 자물쇠 * 2 - 다이소(6/27) 
-  - [ ] [Watch 시계](https://smartstore.naver.com/early-trend-shop/products/5221359949) - 네이버쇼핑(6/27)
-  - [ ] [Insole 깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328) - 네이버쇼핑(6/27)
-  - [ ] [Elbow Pad 팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601) - 네이버쇼핑(6/27)
-  - [ ] [Knee Pad 무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521) - 네이버쇼핑(6/27)
-  - [ ] [Heel Band 발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748) - 네이버쇼핑(6/27)
-  - [ ] [Warpaint 위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503) - 네이버쇼핑(6/27)
+  - [x] 안경 - 으뜸50안경
+  - [x] 마스크 줄 - 다이소(6/27)
+  - [x] [마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779) - 다이소(6/27)
+  - [x] 귀마개 * 2 - 다이소(6/27)
+  - [x] 자물쇠 * 2 - 다이소(6/27) 
+  - [x] [시계](https://smartstore.naver.com/early-trend-shop/products/5221359949) - 네이버쇼핑(6/27)
+  - [x] [깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328) - 네이버쇼핑(6/27)
+  - [x] [팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601) - 네이버쇼핑(6/27)
+  - [x] [무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521) - 네이버쇼핑(6/27)
+  - [x] [발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748) - 네이버쇼핑(6/27)
+  - [x] [위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503) - 네이버쇼핑(6/27)
   - [ ] 견출지
 
 - [ ] 의료용품
