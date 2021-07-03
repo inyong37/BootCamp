@@ -42,17 +42,18 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [x] 형광펜 * 1 - 문방구(6/27)
   - [x] 필통 * 1 - 문방구(6/27)
   - [x] [라이트펜](https://smartstore.naver.com/early-trend-shop/products/5090123821) * 1 - 문방구(6/27)
+  - [ ] 네임펜
 
 - [ ] Cleansing Products
   - [x] Toothbrush 칫솔 - 집
   - [x] Toothpaste 치약 - 집
   - [x] Toothbrush Quiver 칫솔통 - 집
   - [x] Shampoo 샴푸 - 집
-  - [x] Body Cleaning Soap 바디클렌저 - 집
+  - [ ] Body Cleaning Soap 바디클렌저 - 집
   - [x] Body Cleaning Brush 샤워볼 - 다이소(6/27)
   - [x] Cleaning Bag 세면백 - 다이소(6/27)
-  - [x] Shaving Cream 쉐이빙크림 - 쿠팡
-  - [x] Lotion 로션 - 네이버쇼핑
+  - [ ] Shaving Cream 쉐이빙크림 - 쿠팡 -> 플라스틱 케이스
+  - [ ] Lotion 로션 - 네이버쇼핑 -> 플라스틱 케이스
   - [x] Sun Cream 선크림 - 올리브영(6/27)
   - [x] Lip balm 립밤 - 롭스(6/27)
   - [x] Cotton Swab 면봉 - 다이소(6/27)
@@ -74,6 +75,10 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [x] [발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748) - 네이버쇼핑(6/27)
   - [x] [위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503) - 네이버쇼핑(6/27)
   - [ ] 견출지
+  - [ ] 지퍼백
+    - [ ] 중형
+    - [ ] 대형
+  - [ ] 플라스틱 텀블러
 
 - [ ] 의료용품
   - [ ] 연고
@@ -88,20 +93,25 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [ ] 약 용기
   - [ ] 용각산
   - [ ] 벌레기피제
+  - [ ] 마스크 (KF94 하얀색)
 
 - [ ] 서류
   - [x] 신분증 - [주민등록증 재발급 신청](https://www.gov.kr/mw/AA020InfoCappView.do?HighCtgCD=A01010&CappBizCD=13100000018&tp_seq=01)
   - [x] 나라사랑카드 - 고객센터 재발급 신청 KB국민은행: 1588-1688 / IBK기업은행 1588-2588
   - [x] 소집통지서/입영통지서 - [병무민원](https://mwpt.mma.go.kr/)
+  - [ ] 편지
+    - [ ] 편지 봉투
+    - [ ] 편지지
+    - [ ] 우표
 
-- [ ] Bot
-  - [ ] Checking Messages Every day
+- [x] Bot
+  - [x] Checking Messages Every day
     - [x] Scheduler
     - [x] Content
     - [x] Multiple Computer
       - [x] Test MyNotebook
       - [x] Test InyongLaptop
-  - [ ] Committing Every day
+  - [x] Committing Every day
     - [x] Scheduler
     - [x] Content
   - ~~Sending Internet Post~~; 본인인증
