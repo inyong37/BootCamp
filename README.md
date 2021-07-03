@@ -4,7 +4,7 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
 ## Preparation Materials
 파랑 글씨는 구매 링크가 연결되어 있어서, 클릭하면 구매 페이지로 넘어감. (광고 아님)
 
-- [ ] Textbooks
+- [x] Textbooks
   - [x] Operating System
     - [Advanced Programming in the UNIX Environment](https://read.amazon.com/kp/embed?asin=B00DB3G8KY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_36BE4JGSZS3WMR32355V) / [UNIX 고급 프로그래밍](http://www.yes24.com/Product/Goods/14528020)
     - [Operating System Concepts](https://www.amazon.com/dp/1119456339/?coliid=I2SC46EAXP0FJL&colid=3DGQ02RJ0O8QW&psc=0&ref_=lv_ov_lig_dp_it_im)
