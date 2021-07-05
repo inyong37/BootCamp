@@ -42,25 +42,25 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [x] 형광펜 * 1 - 문방구(6/27)
   - [x] 필통 * 1 - 문방구(6/27)
   - [x] [라이트펜](https://smartstore.naver.com/early-trend-shop/products/5090123821) * 1 - 문방구(6/27)
-  - [ ] 네임펜
+  - [x] 네임펜 - 집
 
 - [ ] Cleansing Products
   - [x] Toothbrush 칫솔 - 집
   - [x] Toothpaste 치약 - 집
   - [x] Toothbrush Quiver 칫솔통 - 집
   - [x] Shampoo 샴푸 - 집
-  - [ ] Body Cleaning Soap 바디클렌저 - 집
+  - [z] Body Cleaning Soap 바디클렌저 - 다이소(7/3)
   - [x] Body Cleaning Brush 샤워볼 - 다이소(6/27)
   - [x] Cleaning Bag 세면백 - 다이소(6/27)
-  - [ ] Shaving Cream 쉐이빙크림 - 쿠팡 -> 플라스틱 케이스
-  - [ ] Lotion 로션 - 네이버쇼핑 -> 플라스틱 케이스
+  - [ ] Shaving Cream 쉐이빙크림 - 쿠팡 -> 플라스틱 케이스 -> 가능인듯
+  - [ ] Lotion 로션 - 네이버쇼핑 -> 플라스틱 케이스/공병 (다이소)
   - [x] Sun Cream 선크림 - 올리브영(6/27)
   - [x] Lip balm 립밤 - 롭스(6/27)
   - [x] Cotton Swab 면봉 - 다이소(6/27)
   - [x] Wet Tissue 물티슈 - 쿠팡
   - [x] Powder Tissue 파우더 시트 - 롭스(6/27)
-  - [ ] Sun Stick 선스틱
-  - [ ] Hand Cream 핸드크림
+  - [x] Sun Stick 선스틱 -> 올리브영(7/4)
+  - [x] Hand Cream 핸드크림 -> 집
 
 - [ ] Equipment
   - [x] 안경 - 으뜸50안경
@@ -75,9 +75,9 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [x] [발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748) - 네이버쇼핑(6/27)
   - [x] [위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503) - 네이버쇼핑(6/27)
   - [ ] 견출지
-  - [ ] 지퍼백
-    - [ ] 중형
-    - [ ] 대형
+  - [x] 지퍼백
+    - [x] 중형 - 다이소
+    - [x] 대형
   - [ ] 플라스틱 텀블러
 
 - [ ] 의료용품
@@ -100,8 +100,8 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [x] 나라사랑카드 - 고객센터 재발급 신청 KB국민은행: 1588-1688 / IBK기업은행 1588-2588
   - [x] 소집통지서/입영통지서 - [병무민원](https://mwpt.mma.go.kr/)
   - [ ] 편지
-    - [ ] 편지 봉투
-    - [ ] 편지지
+    - [x] 편지 봉투 - 다이소(7/3)
+    - [x] 편지지 - 다이소(7/3)
     - [ ] 우표
 
 - [x] Bot
