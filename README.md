@@ -77,8 +77,8 @@ Preparation and review for going to the KATC (Korean Army Training Center, 육�
   - [x] 자물쇠 * 2 - 다이소(6/27) 
   - [x] [시계](https://smartstore.naver.com/early-trend-shop/products/5221359949) - 네이버쇼핑(6/27)
   - [x] [깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328) - 네이버쇼핑(6/27)
-  - [x] [팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601) - 네이버쇼핑(6/27) -> 약해서 쿠팡 (7/6)
-  - [x] [무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521) - 네이버쇼핑(6/27) -> 약해서 쿠팡 (7/6)
+  - [x] [팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601) - 네이버쇼핑(6/27) -> 약해서 쿠팡 (7/6) + 패드가 있어야 함
+  - [x] [무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521) - 네이버쇼핑(6/27) -> 약해서 쿠팡 (7/6) + 패드가 있어야 함
   - [x] [발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748) - 네이버쇼핑(6/27)
   - [x] [위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503) - 네이버쇼핑(6/27)
   - [x] 견출지 - 다이소 (7/5)
