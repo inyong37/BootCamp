@@ -45,19 +45,19 @@
   - [ ] 여분 안경
   - [ ] 마스크 줄
   - [ ] **[마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779)**
-  - [ ] **귀마개 * 2 - 다이소(6/27)**
-  - [ ] 자물쇠 * 2 - 다이소(6/27) 
+  - [ ] **귀마개**
+  - [ ] 자물쇠
   - [ ] [시계](https://smartstore.naver.com/early-trend-shop/products/5221359949)
   - [ ] [깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328)
   - [ ] [팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601)
   - [ ] [무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521)
   - [ ] [발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748)
-  - [ ] [위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503) - 네이버쇼핑(6/27)
+  - [ ] [위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503)
   - [ ] 견출지
   - [ ] 지퍼백
     - [ ] 중형
     - [ ] 대형
-  - [ ] 플라스틱 텀블러 - 집
+  - [ ] 플라스틱 텀블러
   - [ ] 라텍스 장갑
 
 - [ ] 의료용품
@@ -86,7 +86,7 @@
   - [ ] 벌레기피제
     - [ ] 스프레이형
     - [ ] 클립형
-  - [ ] 마스크 (KF94 하얀색) * 15
+  - [ ] 마스크 (KF94 하얀색)
   - [ ] 유산균
 
 - [ ] 서류
