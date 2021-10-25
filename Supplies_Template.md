@@ -7,7 +7,7 @@
 
 - [ ] 필기구
   - [ ] 공책
-  - [ ] 수첩
+  - [ ] **수첩**
     - [ ] 주소
     - [ ] 전화번호
   - [ ] 샤프
@@ -17,7 +17,7 @@
   - [ ] 삼색펜
   - [ ] 형광펜
   - [ ] 필통
-  - [ ] [라이트펜](https://smartstore.naver.com/early-trend-shop/products/5090123821)
+  - [ ] **[라이트펜](https://smartstore.naver.com/early-trend-shop/products/5090123821)**
   - [ ] 네임펜
   - [ ] 유성펜
 
@@ -35,15 +35,17 @@
   - [ ] 립밤
   - [ ] 면봉
   - [ ] 물티슈
+  - [ ] **비데물티슈**
   - [ ] 파우더 시트
   - [ ] 선스틱
   - [ ] 핸드 크림
+  - [ ] 안대
 
 - [ ] 장비
   - [ ] 여분 안경
   - [ ] 마스크 줄
-  - [ ] [마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779)
-  - [ ] 귀마개 * 2 - 다이소(6/27)
+  - [ ] **[마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779)**
+  - [ ] **귀마개 * 2 - 다이소(6/27)**
   - [ ] 자물쇠 * 2 - 다이소(6/27) 
   - [ ] [시계](https://smartstore.naver.com/early-trend-shop/products/5221359949)
   - [ ] [깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328)
