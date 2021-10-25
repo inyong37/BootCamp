@@ -7,7 +7,7 @@
 
 - [ ] 필기구
   - [ ] 공책
-  - [ ] **수첩**
+  - [ ] 수첩 :star:
     - [ ] 주소
     - [ ] 전화번호
   - [ ] 샤프
@@ -17,8 +17,8 @@
   - [ ] 삼색펜
   - [ ] 형광펜
   - [ ] 필통
-  - [ ] **[라이트펜](https://smartstore.naver.com/early-trend-shop/products/5090123821)**
-  - [ ] 네임펜
+  - [ ] [라이트펜](https://smartstore.naver.com/early-trend-shop/products/5090123821) :star:
+  - [ ] 네임펜 :star:
   - [ ] 유성펜
 
 - [ ] 세면용품
@@ -34,8 +34,8 @@
   - [ ] 선크림
   - [ ] 립밤
   - [ ] 면봉
-  - [ ] 물티슈
-  - [ ] **비데물티슈**
+  - [ ] 물티슈 :star:
+  - [ ] 비데물티슈 :star:
   - [ ] 파우더 시트
   - [ ] 선스틱
   - [ ] 핸드 크림
@@ -45,33 +45,33 @@
 - [ ] 장비
   - [ ] 여분 안경
   - [ ] 마스크 줄
-  - [ ] **[마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779)**
-  - [ ] **귀마개**
+  - [ ] [마스크 귀패드](https://smartstore.naver.com/early-trend-shop/products/5351685779) :star:
+  - [ ] 귀마개 :star:
   - [ ] 자물쇠
   - [ ] [시계](https://smartstore.naver.com/early-trend-shop/products/5221359949)
   - [ ] [깔창](https://smartstore.naver.com/early-trend-shop/products/4755301328)
-  - [ ] [팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601)
-  - [ ] [무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521)
+  - [ ] [팔꿈치 패드](https://smartstore.naver.com/early-trend-shop/products/4911095601) :star:
+  - [ ] [무릎 패드](https://smartstore.naver.com/early-trend-shop/products/4928064521) :star:
   - [ ] [발꿈치 밴드](https://smartstore.naver.com/early-trend-shop/products/5406408748)
   - [ ] [위장크림](https://smartstore.naver.com/early-trend-shop/products/4949369609?NaPm=ct%3Dkqf5lsap%7Cci%3Dcheckout%7Ctr%3Dsls_myc%7Ctrx%3D%7Chk%3De765994066b7914fa093bd4384d0c9b834563503)
   - [ ] 견출지
   - [ ] 지퍼백
     - [ ] 중형
     - [ ] 대형
-  - [ ] 플라스틱 텀블러
+  - [ ] 플라스틱 텀블러 :star:
   - [ ] 라텍스 장갑
 
 - [ ] 의료용품
-  - [ ] 연고; 바르는 약은 휴대 가능
+  - [ ] 연고; 바르는 약은 휴대 가능 :star:
     - [ ] 벌레 물렸을 때 바르는 약
     - [ ] 상처에 바르는 약
     - [ ] 발진에 바르는 약
-  - [ ] 밴드; 휴대 가능
-    - [ ] 중형 밴드 * 12
-    - [ ] 대형 밴드 * 12
-    - [ ] 방수 밴드 * 12
-    - [ ] 물집 밴드 * 22
-    - [ ] 이지덤 * 1
+  - [ ] 밴드; 휴대 가능 :star:
+    - [ ] 중형 밴드
+    - [ ] 대형 밴드
+    - [ ] 방수 밴드
+    - [ ] 물집 밴드
+    - [ ] 이지덤
   - [ ] 파스; 휴대 가능
     - [ ] 일반 파스
     - [ ] 물 파스
@@ -87,14 +87,14 @@
   - [ ] 벌레기피제
     - [ ] 스프레이형
     - [ ] 클립형
-  - [ ] 마스크 (KF94 하얀색)
+  - [ ] 마스크 (KF94 하얀색) :star:
   - [ ] 유산균
 
 - [ ] 서류
-  - [ ] 신분증 - [주민등록증 재발급 신청](https://www.gov.kr/mw/AA020InfoCappView.do?HighCtgCD=A01010&CappBizCD=13100000018&tp_seq=01)
-  - [ ] 나라사랑카드 - 고객센터 재발급 신청 KB국민은행: 1588-1688 / IBK기업은행 1588-2588 (약 7일 소요)
+  - [ ] 신분증 - [주민등록증 재발급 신청](https://www.gov.kr/mw/AA020InfoCappView.do?HighCtgCD=A01010&CappBizCD=13100000018&tp_seq=01) :star:
+  - [ ] 나라사랑카드 - 고객센터 재발급 신청 KB국민은행: 1588-1688 / IBK기업은행 1588-2588 (약 7일 소요) :star:
   - [ ] 소집통지서/입영통지서 - [병무민원](https://mwpt.mma.go.kr/)
-  - [ ] 편지
+  - [ ] 편지 :star:
     - [ ] 편지 봉투
     - [ ] 편지지
     - [ ] 우표
